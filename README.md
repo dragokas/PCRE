@@ -16,3 +16,5 @@ Options used in compiled DLLs:
  - PCRE2_STATIC_RUNTIME
  - Unicode
  - all other options are by default
+
+Official site: http://www.pcre.org/
