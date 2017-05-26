@@ -4,8 +4,8 @@
   This file is prepared using regular expressions :)
 
   In Akelpad:
-  Search:       (^|\n)_(.*?)_16@(.*?)($|\r)
-  Replace by:   \n#pragma comment(linker, "/export:\2=_\2_16@\3")\r
+  Search:       (^|\n).*?_(pcre.*?)_16@(.*?)($|\r)
+  Replace by:   \n#pragma comment(linker, "/export:\2=_\2_16@\3")
 */
 
 
