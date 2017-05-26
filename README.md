@@ -3,7 +3,7 @@ PCRE v2 for Windows
 
 Here I'll compile for you official PCRE v2 sources for Windows (Perl Compatible Regular Expressions library).
 
-Also, a bit later, I'll show you video how to compile sources yourself.
+You can do it yourself. See video instruction: https://youtu.be/3giarqBBeA4
 
 Options used in compiled DLLs:
 
